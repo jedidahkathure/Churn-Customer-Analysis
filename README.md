@@ -1,5 +1,5 @@
 # Customer Churn Prediction for SyriaTel
-![Alt text](Images\photo.png)
+![Alt text](Image.png)
 ### Overview
 
 SyriaTel, a leading telecommunications provider, faces the challenge of customer churn—when users stop using their services. High churn negatively impacts revenue and increases customer acquisition costs. To remain competitive, it's essential for SyriaTel to identify customers who are at risk of leaving and take proactive steps to retain them.
@@ -64,7 +64,7 @@ Captured nonlinear relationships and feature interactions (e.g international pla
 
 Slight dip in overall accuracy, but provided much more business value by detecting at-risk customers.
 
-![Alt text](Images\Visualization of the Logistic Reg and DTrees.png)
+![Alt text](photo.png)
 ### Conclusion
 
 In this project, we explored multiple classification models to predict customer churn for SyriaTel, a telecommunications company. The goal was to identify customers at risk of leaving and support proactive retention strategies.
